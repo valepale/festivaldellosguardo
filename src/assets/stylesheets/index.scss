@@ -2678,7 +2678,7 @@ _:-ms-fullscreen,
 
 @media (min-width: $screen-md-min) {
   .slick-gallary-fluid .slick-dots {
-    bottom: -60px;
+    bottom: -10px;
   }
   .slick-gallary-fluid .slick-dots li button .image {
     max-width: 150px;
@@ -2687,7 +2687,7 @@ _:-ms-fullscreen,
 }
 @media (max-width: $screen-sm-max) {
   .slick-gallary-fluid .slick-dots {
-    bottom: -40px;
+    bottom: -10px;
   }
   .slick-gallary-fluid .slick-dots li button .image {
     max-width: 100px;
@@ -2696,7 +2696,7 @@ _:-ms-fullscreen,
 }
 @media (max-width: $screen-xs-max) {
   .slick-gallary-fluid .slick-dots {
-    bottom: -20px;
+    bottom: -10px;
   }
   .slick-gallary-fluid .slick-dots li button .image {
     max-width: 40px;
@@ -3130,3 +3130,8 @@ _:-ms-fullscreen,
     line-height: 45px;
   }
 }
+
+.slick-gallary-fluid {
+    padding: 0 0 35px 0 !important
+}
+

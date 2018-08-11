@@ -53,22 +53,7 @@ function sliderSettings(images) {
       settings: {
         centerMode: false,
       },
-    }],
-    customPaging: i => {
-      const image = images[i];
-
-      return (
-        <button className="tab">
-          <Scrivito.BackgroundImageTag
-            className="image"
-            style={
-              {
-                background: { image },
-              }
-            }
-          />
-        </button>
-      );
-    },
+    }]
   };
 }
+

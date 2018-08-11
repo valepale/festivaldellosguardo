@@ -125,7 +125,7 @@ const Thumbnail = Scrivito.connect(({ widget, openLightbox, currentTag }) => {
   if (currentTag && tags.includes(currentTag)) { classNames.push('squeezed'); }
 
   return (
-    <div className={ classNames.join(' ') }>
+    <div className={ classNames.join(' ') } style={{padding: '7px'}}>
       <Scrivito.BackgroundImageTag
         className="gallery-box-image"
         style={ { background: { image } } }
@@ -167,3 +167,4 @@ function lightboxOptions(galleryImageWidget) {
     alt,
   };
 }
+
