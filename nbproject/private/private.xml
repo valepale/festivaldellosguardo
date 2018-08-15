@@ -3,9 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Widgets/LinkedinPageWidget/LinkedinPageWidgetEditingConfig.js</file>
-            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Widgets/LinkedinPageWidget/LinkedinPageWidgetComponent.js</file>
-            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Components/LinkedinPage.js</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Widgets/InstagramPageWidget/InstagramPageWidgetEditingConfig.js</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Widgets/InstagramPageWidget/InstagramPageWidgetWidgetClass.js</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/.env</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Components/InstagramPage.js</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Widgets/InstagramPageWidget/InstagramPageWidgetComponent.js</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Components/CookieConsent.js</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/index.js</file>
         </group>
     </open-files>
 </project-private>

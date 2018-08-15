@@ -10,7 +10,7 @@ class InstagramPage extends React.Component {
         return (
                 <div id={instafeedTarget} style={{ textAlign: 'center'}}>
                     <Instafeed
-                        limit='5'
+                        limit='10'
                         ref='instafeed'
                         resolution='standard_resolution'
                         sortBy='most-recent'
