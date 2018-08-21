@@ -8,7 +8,7 @@ import isImage from '../../utils/isImage';
 import { textExtractFromObj } from '../../utils/textExtract';
 
 const BlogPostPreviewList = Scrivito.connect(({ maxItems, author, tag }) => {
-  let blogPosts = Scrivito.getClass('BlogPost').all().order('publishedAt', 'desc');
+  let blogPosts = Scrivito.getClass('BlogPost').all().order('publishedAt', 'asc');
   if (author) {
     blogPosts = blogPosts.and('author', 'refersTo', author);
   }
@@ -93,16 +93,17 @@ const BlogPostPreview = Scrivito.connect(({ post }) => {
 
 const BlogPostTitleImage = Scrivito.connect(({ post }) => {
   const titleImage = post.get('titleImage');
+  console.log('titleImage', post);
   if (!isImage(titleImage)) { return null; }
 
   return (
-    <Scrivito.LinkTag to={ post }>
+  
       <Scrivito.ImageTag
         content={ titleImage }
         className="img-responsive"
         alt={ titleImage.get('alternativeText') }
       />
-    </Scrivito.LinkTag>
+   
   );
 });
 
