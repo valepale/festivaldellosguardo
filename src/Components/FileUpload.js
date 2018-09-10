@@ -1,7 +1,7 @@
 import React from 'react';
 import * as Scrivito from 'scrivito';
 import axios, { post } from 'axios';
-
+import './contactForm.html';
 
 class FileUpload extends React.Component {
 
