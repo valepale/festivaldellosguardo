@@ -1,6 +1,7 @@
 import React from 'react';
 import * as Scrivito from 'scrivito';
 import axios, { post } from 'axios';
+import './contactForm.html';
 
 class FileUpload extends React.Component {
 
@@ -39,7 +40,7 @@ class FileUpload extends React.Component {
  render() {
   return (
     <div className="row card-white-transparent">
-        <form className="row" onSubmit={this.onFormSubmit} netlify netlify-honeypot="bot-field" hidden>
+        <form className="row" onSubmit={this.onFormSubmit}>
         <input
           type="hidden"
           name="form-name"
