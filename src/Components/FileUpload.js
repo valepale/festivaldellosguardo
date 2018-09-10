@@ -39,7 +39,7 @@ class FileUpload extends React.Component {
  render() {
   return (
     <div className="row card-white-transparent">
-        <form className="row" onSubmit={this.onFormSubmit} netlify>
+        <form className="row" onSubmit={this.onFormSubmit} netlify netlify-honeypot="bot-field" hidden>
         <input
           type="hidden"
           name="form-name"
