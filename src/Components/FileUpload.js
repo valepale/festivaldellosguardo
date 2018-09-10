@@ -112,8 +112,10 @@ class FileUpload extends React.Component {
               required
             />
           </div>
+          </div>
           
-          <input type="file" name="file" multiple onChange={this.onChange} /> 
+          <input type="file" name="file" onChange={this.onChange} /> 
+          <div data-netlify-recaptcha></div>
           <button
             className="btn btn-primary btn-block"
             type="submit">
