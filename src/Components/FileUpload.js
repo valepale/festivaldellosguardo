@@ -112,7 +112,7 @@ class FileUpload extends React.Component {
               required
             />
           </div>
-         
+          
           <input type="file" name="file" onChange={this.onChange} /> 
           <button
             className="btn btn-primary btn-block"
