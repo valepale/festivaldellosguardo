@@ -3,12 +3,27 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Components/GoogleAnalytics.js</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/public/_scrivito_extensions.html</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Components/BlogPost/BlogPostNavigation.js</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Components/BlogPost/BlogPostTagList.js</file>
             <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Widgets/InstagramPageWidget/InstagramPageWidgetEditingConfig.js</file>
             <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Widgets/InstagramPageWidget/InstagramPageWidgetWidgetClass.js</file>
-            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/assets/stylesheets/index.scss</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Widgets/ContactFormWidget/contactForm.html</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Widgets/ContactFormWidget/ContactFormWidgetEditingConfig.js</file>
             <file>file:/home/valeria/src_git/festivaldellosguardo.git/.env</file>
             <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Widgets/InstagramPageWidget/InstagramPageWidgetComponent.js</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Objs/Blog/BlogComponent.js</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Widgets/ContactFormWidget/ContactFormWidgetComponent.js</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Widgets/ContactFormWidget/ContactFormWidgetClass.js</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Components/FileUpload.js</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/package.json</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Components/contactForm.html</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/assets/stylesheets/index.scss</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Components/BlogPost/BlogPostPreviewList.js</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Components/InstagramPage.js</file>
             <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/Components/CookieConsent.js</file>
+            <file>file:/home/valeria/src_git/festivaldellosguardo.git/public/index.html</file>
             <file>file:/home/valeria/src_git/festivaldellosguardo.git/src/index.js</file>
         </group>
     </open-files>
