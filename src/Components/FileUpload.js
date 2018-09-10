@@ -51,12 +51,12 @@ class FileUpload extends React.Component {
         </div>
         <div className="col-sm-6">
           <div className="form-group">
-            <label htmlFor="contactName">Your name</label>
+            <label htmlFor="contactName">Nome</label>
             <input
               className="form-control form-control-lg"
               id="contactName"
               name="contactName"
-              placeholder="Name"
+              placeholder="Nome"
               type="text"
               required
             />
@@ -64,12 +64,12 @@ class FileUpload extends React.Component {
         </div>
         <div className="col-sm-6">
           <div className="form-group">
-            <label htmlFor="contactFamilyName">Family name</label>
+            <label htmlFor="contactFamilyName">Cognome</label>
             <input
               className="form-control form-control-lg"
               id="contactFamilyName"
               name="contactFamilyName"
-              placeholder="Family name"
+              placeholder="Cognome"
               type="text"
               required
             />
@@ -77,7 +77,7 @@ class FileUpload extends React.Component {
         </div>
         <div className="col-sm-6">
           <div className="form-group">
-            <label htmlFor="contactEmail">Email address</label>
+            <label htmlFor="contactEmail">Email</label>
             <input
               className="form-control form-control-lg"
               id="contactEmail"
@@ -88,27 +88,15 @@ class FileUpload extends React.Component {
             />
           </div>
         </div>
-        <div className="col-sm-6">
-          <div className="form-group">
-            <label htmlFor="contactCompany">Company (optional)</label>
-            <input
-              className="form-control form-control-lg"
-              id="contactCompany"
-              name="contactCompany"
-              placeholder="Company"
-              type="text"
-            />
-          </div>
-        </div>
         <div className="col-sm-12">
           <div className="form-group">
-            <label htmlFor="contactMessage">Message</label>
+            <label htmlFor="contactMessage">Messaggio</label>
             <textarea
               className="form-control form-control-lg"
               rows="3"
               id="contactMessage"
               name="contactMessage"
-              placeholder="Your Message..."
+              placeholder="Il tuo messaggio..."
               required
             />
           </div>
