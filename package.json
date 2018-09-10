@@ -15,6 +15,7 @@
     "@babel/preset-env": "^7.0.0-beta.51",
     "@babel/preset-react": "^7.0.0-beta.51",
     "autotrack": "^2.4.1",
+    "axios": "^0.18.0",
     "babel-loader": "^8.0.0-beta.3",
     "clean-webpack-plugin": "^0.1.19",
     "copy-webpack-plugin": "^4.5.1",
