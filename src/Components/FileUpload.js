@@ -40,7 +40,7 @@ class FileUpload extends React.Component {
  render() {
   return (
     <div className="row card-white-transparent">
-        <form className="row" onSubmit={this.onFormSubmit}>
+        <form className="row" method="post">
         <input
           type="hidden"
           name="form-name"
