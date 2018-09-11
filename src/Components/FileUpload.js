@@ -2,6 +2,14 @@ import React from 'react';
 import * as Scrivito from 'scrivito';
 import axios, { post } from 'axios';
 import './contactForm.html';
+  import { ToastContainer, toast } from 'react-toastify';
+  import 'react-toastify/dist/ReactToastify.css';
+
+var fileTypes = [
+  'image/jpeg',
+  'image/pjpeg',
+  'image/png'
+]
 
 class FileUpload extends React.Component {
 
@@ -15,6 +23,7 @@ class FileUpload extends React.Component {
         this.onChange = this.onChange.bind(this)
         this.fileUpload = this.fileUpload.bind(this)
     }
+    
     onFormSubmit(e) {
         e.preventDefault() // Stop form submit
         this.fileUpload(this.state).then((response) => {
@@ -22,8 +31,32 @@ class FileUpload extends React.Component {
         })
     }
     onChange(e) {
-        this.setState({file: e.target.files[0], target: e.target})
+        if (this.validFileType(e.target.files[0])){
+             if(e.target.files[0].size > 500000){
+              toast.error("Error Notification !", {
+      position: toast.POSITION.TOP_LEFT
+    });
+            } else {
+                 this.setState({file: e.target.files[0], target: e.target})
+            }
+                
+       } else {
+          toast.error("Error Notification !", {
+      position: toast.POSITION.TOP_LEFT
+    });
+       }
+       
     }
+    
+    validFileType(file) {
+        for(var i = 0; i < fileTypes.length; i++) {
+            if(file.type === fileTypes[i]) {
+            return true;
+         }
+      }
+    }
+    
+    
     fileUpload(state) {
         const url = 'https://www.festivaldellosguardo.it';
         const formData = new FormData();
@@ -100,10 +133,12 @@ class FileUpload extends React.Component {
               required
             />
           </div>
-          <div>
-          <input type="file" name="file"/> 
-          </div>
-          <div netlify-recaptcha></div>
+         
+           <div>
+            <label for="image_uploads">Scegli file (PNG, JPG)</label>
+            <input type="file" id="file" name="file" onChange={this.onChange} />
+           </div>
+           <ToastContainer />
           <button
             className="btn btn-primary btn-block"
             type="submit">
