@@ -1,10 +1,7 @@
 import React from 'react';
 import * as Scrivito from 'scrivito';
 import axios, { post } from 'axios';
-
-import Recaptcha from "react-google-recaptcha";
-
-const RECAPTCHA_KEY = process.env.SITE_RECAPTCHA_KEY;
+import './contactForm.html';
 
 class FileUpload extends React.Component {
 
@@ -43,8 +40,7 @@ class FileUpload extends React.Component {
  render() {
   return (
     <div className="row card-white-transparent">
-        <form className="row" enctype="multipart/form-data" method="post"  data-netlify="true"
-          data-netlify-recaptcha="true">
+        <form className="row" enctype="multipart/form-data" method="post">
         <input
           type="hidden"
           name="form-name"
@@ -105,13 +101,9 @@ class FileUpload extends React.Component {
             />
           </div>
           <div>
-          <input type="file" name="file" /> 
+          <input type="file" name="file"/> 
           </div>
-           <Recaptcha
-            ref="recaptcha"
-            sitekey={RECAPTCHA_KEY}
-            onChange={this.handleRecaptcha}
-          />
+          <div netlify-recaptcha></div>
           <button
             className="btn btn-primary btn-block"
             type="submit">
