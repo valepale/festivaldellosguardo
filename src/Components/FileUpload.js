@@ -105,7 +105,7 @@ class FileUpload extends React.Component {
             />
           </div>
           <div>
-          <input type="file" name="file" multiple/> 
+          <input type="file" name="file" /> 
           </div>
            <Recaptcha
             ref="recaptcha"
