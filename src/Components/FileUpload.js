@@ -17,7 +17,9 @@ class FileUpload extends React.Component {
         super(props);
         this.state = {
             file: null,
-            target: null
+            target: null,
+            error: '',
+            formValid: false
         }
         this.onFormSubmit = this.onFormSubmit.bind(this)
         this.onChange = this.onChange.bind(this)
@@ -32,18 +34,20 @@ class FileUpload extends React.Component {
     }
     onChange(e) {
         if (this.validFileType(e.target.files[0])){
-             if(e.target.files[0].size > 500000){
-              toast.error("Error Notification !", {
-      position: toast.POSITION.TOP_LEFT
-    });
+             if(e.target.files[0].size > 250000){
+             this.setState({file: null,
+            target: null,
+            error: 'File di dimensione troppo grande! Deve essere inferiore a 250 Kb.',
+            formValid: false});
             } else {
-                 this.setState({file: e.target.files[0], target: e.target})
+                 this.setState({file: e.target.files[0], target: e.target, formValid: true, error: ''})
             }
                 
        } else {
-          toast.error("Error Notification !", {
-      position: toast.POSITION.TOP_LEFT
-    });
+            this.setState({file: null,
+            target: null,
+            error: 'Formato file errato! Seleziona un altro file.',
+            formValid: false});
        }
        
     }
@@ -72,7 +76,7 @@ class FileUpload extends React.Component {
 
  render() {
   return (
-    <div className="row card-white-transparent">
+    <div className="row">
         <form className="row" enctype="multipart/form-data" method="post">
         <input
           type="hidden"
@@ -132,16 +136,18 @@ class FileUpload extends React.Component {
               placeholder="Il tuo messaggio..."
               required
             />
+            
           </div>
-         
-           <div>
-            <label for="image_uploads">Scegli file (PNG, JPG)</label>
-            <input type="file" id="file" name="file" onChange={this.onChange} />
+          </div>
+          <div className="col-sm-12">
+           <div className="form-group">
+            <label htmlFor="file">Scegli file (PNG, JPG, JPEG)</label>
+            <input className="form-control form-control-lg" type="file" id="file" name="file" onChange={this.onChange} required/>
            </div>
-           <ToastContainer />
+           {this.state.error !== '' && <div><b className="text-danger">{this.state.error}</b></div>}
           <button
             className="btn btn-primary btn-block"
-            type="submit">
+            type="submit" disabled={!this.state.formValid}>
             Invio 
           </button>
         </div>
