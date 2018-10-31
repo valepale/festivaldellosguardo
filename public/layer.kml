@@ -3,13 +3,13 @@
   <Document>
     <name>Mappa senza titolo</name>
     <description/>
-    <Style id="poly-0288D1-2000-128-nodesc-normal">
+    <Style id="poly-0288D1-301-145-nodesc-normal">
       <LineStyle>
         <color>ffd18802</color>
-        <width>2</width>
+        <width>0.301</width>
       </LineStyle>
       <PolyStyle>
-        <color>80d18802</color>
+        <color>91d18802</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -17,13 +17,13 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="poly-0288D1-2000-128-nodesc-highlight">
+    <Style id="poly-0288D1-301-145-nodesc-highlight">
       <LineStyle>
         <color>ffd18802</color>
-        <width>3</width>
+        <width>0.4515</width>
       </LineStyle>
       <PolyStyle>
-        <color>80d18802</color>
+        <color>91d18802</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -31,23 +31,23 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="poly-0288D1-2000-128-nodesc">
+    <StyleMap id="poly-0288D1-301-145-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-0288D1-2000-128-nodesc-normal</styleUrl>
+        <styleUrl>#poly-0288D1-301-145-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-0288D1-2000-128-nodesc-highlight</styleUrl>
+        <styleUrl>#poly-0288D1-301-145-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-0F9D58-5000-41-nodesc-normal">
+    <Style id="poly-3949AB-1101-143-nodesc-normal">
       <LineStyle>
-        <color>ff589d0f</color>
-        <width>5</width>
+        <color>ffab4939</color>
+        <width>1.101</width>
       </LineStyle>
       <PolyStyle>
-        <color>29589d0f</color>
+        <color>8fab4939</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -55,13 +55,13 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="poly-0F9D58-5000-41-nodesc-highlight">
+    <Style id="poly-3949AB-1101-143-nodesc-highlight">
       <LineStyle>
-        <color>ff589d0f</color>
-        <width>7.5</width>
+        <color>ffab4939</color>
+        <width>1.6515</width>
       </LineStyle>
       <PolyStyle>
-        <color>29589d0f</color>
+        <color>8fab4939</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -69,23 +69,23 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="poly-0F9D58-5000-41-nodesc">
+    <StyleMap id="poly-3949AB-1101-143-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-0F9D58-5000-41-nodesc-normal</styleUrl>
+        <styleUrl>#poly-3949AB-1101-143-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-0F9D58-5000-41-nodesc-highlight</styleUrl>
+        <styleUrl>#poly-3949AB-1101-143-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-3949AB-2000-112-nodesc-normal">
+    <Style id="poly-3949AB-401-145-nodesc-normal">
       <LineStyle>
         <color>ffab4939</color>
-        <width>2</width>
+        <width>0.401</width>
       </LineStyle>
       <PolyStyle>
-        <color>70ab4939</color>
+        <color>91ab4939</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -93,13 +93,13 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="poly-3949AB-2000-112-nodesc-highlight">
+    <Style id="poly-3949AB-401-145-nodesc-highlight">
       <LineStyle>
         <color>ffab4939</color>
-        <width>3</width>
+        <width>0.6015</width>
       </LineStyle>
       <PolyStyle>
-        <color>70ab4939</color>
+        <color>91ab4939</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -107,23 +107,23 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="poly-3949AB-2000-112-nodesc">
+    <StyleMap id="poly-3949AB-401-145-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-3949AB-2000-112-nodesc-normal</styleUrl>
+        <styleUrl>#poly-3949AB-401-145-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-3949AB-2000-112-nodesc-highlight</styleUrl>
+        <styleUrl>#poly-3949AB-401-145-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-3949AB-3000-87-nodesc-normal">
+    <Style id="poly-87CEAC-1601-135-nodesc-normal">
       <LineStyle>
-        <color>ffab4939</color>
-        <width>3</width>
+        <color>ffacce87</color>
+        <width>1.601</width>
       </LineStyle>
       <PolyStyle>
-        <color>57ab4939</color>
+        <color>87acce87</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -131,13 +131,13 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="poly-3949AB-3000-87-nodesc-highlight">
+    <Style id="poly-87CEAC-1601-135-nodesc-highlight">
       <LineStyle>
-        <color>ffab4939</color>
-        <width>4.5</width>
+        <color>ffacce87</color>
+        <width>2.4015</width>
       </LineStyle>
       <PolyStyle>
-        <color>57ab4939</color>
+        <color>87acce87</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -145,23 +145,23 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="poly-3949AB-3000-87-nodesc">
+    <StyleMap id="poly-87CEAC-1601-135-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-3949AB-3000-87-nodesc-normal</styleUrl>
+        <styleUrl>#poly-87CEAC-1601-135-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-3949AB-3000-87-nodesc-highlight</styleUrl>
+        <styleUrl>#poly-87CEAC-1601-135-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-E65100-3000-105-nodesc-normal">
+    <Style id="poly-E65100-501-143-nodesc-normal">
       <LineStyle>
         <color>ff0051e6</color>
-        <width>3</width>
+        <width>0.501</width>
       </LineStyle>
       <PolyStyle>
-        <color>690051e6</color>
+        <color>8f0051e6</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -169,13 +169,13 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="poly-E65100-3000-105-nodesc-highlight">
+    <Style id="poly-E65100-501-143-nodesc-highlight">
       <LineStyle>
         <color>ff0051e6</color>
-        <width>4.5</width>
+        <width>0.7515</width>
       </LineStyle>
       <PolyStyle>
-        <color>690051e6</color>
+        <color>8f0051e6</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -183,23 +183,23 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="poly-E65100-3000-105-nodesc">
+    <StyleMap id="poly-E65100-501-143-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-E65100-3000-105-nodesc-normal</styleUrl>
+        <styleUrl>#poly-E65100-501-143-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-E65100-3000-105-nodesc-highlight</styleUrl>
+        <styleUrl>#poly-E65100-501-143-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-FFEA00-2000-125-nodesc-normal">
+    <Style id="poly-FFEA00-401-145-nodesc-normal">
       <LineStyle>
         <color>ff00eaff</color>
-        <width>2</width>
+        <width>0.401</width>
       </LineStyle>
       <PolyStyle>
-        <color>7d00eaff</color>
+        <color>9100eaff</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -207,13 +207,13 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="poly-FFEA00-2000-125-nodesc-highlight">
+    <Style id="poly-FFEA00-401-145-nodesc-highlight">
       <LineStyle>
         <color>ff00eaff</color>
-        <width>3</width>
+        <width>0.6015</width>
       </LineStyle>
       <PolyStyle>
-        <color>7d00eaff</color>
+        <color>9100eaff</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -221,84 +221,84 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="poly-FFEA00-2000-125-nodesc">
+    <StyleMap id="poly-FFEA00-401-145-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-FFEA00-2000-125-nodesc-normal</styleUrl>
+        <styleUrl>#poly-FFEA00-401-145-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-FFEA00-2000-125-nodesc-highlight</styleUrl>
+        <styleUrl>#poly-FFEA00-401-145-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Folder>
       <name>Regioni Italiane (KML)</name>
       <Placemark>
         <name>Abruzzo</name>
-        <styleUrl>#poly-0F9D58-5000-41-nodesc</styleUrl>
+        <styleUrl>#poly-87CEAC-1601-135-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <tessellate>1</tessellate>
               <coordinates>
-                13.941905,41.689018,0
-                14.01953,41.683033,0
-                14.070494,41.738169,0
-                14.108037,41.708243,0
-                14.122909,41.747419,0
-                14.172785,41.766825,0
-                14.195093,41.749051,0
-                14.148119,41.828308,0
-                14.285052,41.911737,0
-                14.343815,41.863494,0
-                14.377549,41.880905,0
-                14.443204,41.842274,0
-                14.455718,41.764286,0
-                14.490359,41.761928,0
-                14.781453,42.031077,0
-                14.761684,42.043228,0
-                14.779277,42.069889,0
-                14.718519,42.106163,0
-                14.712715,42.179254,0
-                14.512123,42.249806,0
-                14.419807,42.354817,0
-                14.119101,42.553777,0
-                13.993776,42.711385,0
-                13.916514,42.895473,0
-                13.813497,42.874978,0
-                13.707579,42.84995,0
-                13.664595,42.808054,0
-                13.535461,42.817666,0
-                13.490482,42.734963,0
-                13.393451,42.688351,0
-                13.3443,42.702317,0
-                13.370236,42.650627,0
-                13.40923,42.643916,0
-                13.394902,42.592227,0
-                13.294243,42.570463,0
-                13.192315,42.588418,0
-                13.156767,42.541081,0
-                13.179256,42.480323,0
-                13.117047,42.444957,0
-                13.195035,42.390184,0
-                13.154227,42.3579,0
-                13.380755,42.18143,0
-                13.249627,42.128471,0
-                13.088028,42.178891,0
-                13.085671,42.143162,0
-                13.031623,42.12303,0
-                13.027452,42.051027,0
-                13.06572,42.013484,0
-                13.105802,42.026905,0
-                13.365339,41.925703,0
-                13.380392,41.818515,0
-                13.417754,41.835563,0
-                13.572641,41.755217,0
-                13.648634,41.811985,0
-                13.730431,41.799834,0
-                13.763258,41.753222,0
-                13.892573,41.736174,0
-                13.941905,41.689018,0
+                13.9419089,41.684943,0
+                14.019529,41.678958,0
+                14.0704897,41.734094,0
+                14.1080304,41.704168,0
+                14.1229014,41.743344,0
+                14.1727742,41.76275,0
+                14.1950808,41.744976,0
+                14.1481098,41.824233,0
+                14.285034,41.907662,0
+                14.3437933,41.8594191,0
+                14.3775251,41.8768301,0
+                14.443176,41.8381991,0
+                14.4556893,41.7602111,0
+                14.4903281,41.7578531,0
+                14.7814031,42.0270024,0
+                14.7616354,42.0391533,0
+                14.7792272,42.0658144,0
+                14.718473,42.1020883,0
+                14.7126693,42.1751793,0
+                14.5120901,42.2457311,0
+                14.41978,42.3507421,0
+                14.1190934,42.549702,0
+                13.9937766,42.70731,0
+                13.9165197,42.891398,0
+                13.8135095,42.870903,0
+                13.7075985,42.845875,0
+                13.6646173,42.8039791,0
+                13.5354918,42.8135911,0
+                13.4905157,42.7308881,0
+                13.393491,42.6842762,0
+                13.3443433,42.6982423,0
+                13.3702775,42.6465522,0
+                13.4092689,42.6398412,0
+                13.3949418,42.5881522,0
+                13.2942893,42.5663883,0
+                13.192368,42.5843434,0
+                13.1568222,42.5370064,0
+                13.1793097,42.4762484,0
+                13.1171046,42.4408825,0
+                13.1950875,42.3861094,0
+                13.1542821,42.3538254,0
+                13.3807951,42.1773552,0
+                13.2496755,42.1243963,0
+                13.088087,42.1748165,0
+                13.0857301,42.1390875,0
+                13.0316855,42.1189556,0
+                13.0275146,42.0469526,0
+                13.0657801,42.0094095,0
+                13.1058595,42.0228305,0
+                13.3653797,41.9216282,0
+                13.3804316,41.8144402,0
+                13.4177913,41.8314882,0
+                13.5726683,41.7511421,0
+                13.6486566,41.8079101,0
+                13.7304484,41.795759,0
+                13.7632732,41.749147,0
+                13.89258,41.732099,0
+                13.9419089,41.684943,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -309,7 +309,7 @@
       <name>Features</name>
       <Placemark>
         <name>CHIETI</name>
-        <styleUrl>#poly-FFEA00-2000-125-nodesc</styleUrl>
+        <styleUrl>#poly-FFEA00-401-145-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -475,7 +475,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[L'AQUILA]]></name>
-        <styleUrl>#poly-3949AB-2000-112-nodesc</styleUrl>
+        <styleUrl>#poly-3949AB-401-145-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -516,7 +516,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[L'AQUILA]]></name>
-        <styleUrl>#poly-3949AB-3000-87-nodesc</styleUrl>
+        <styleUrl>#poly-3949AB-1101-143-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -926,7 +926,7 @@
       </Placemark>
       <Placemark>
         <name>PESCARA</name>
-        <styleUrl>#poly-0288D1-2000-128-nodesc</styleUrl>
+        <styleUrl>#poly-0288D1-301-145-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1015,7 +1015,7 @@
       </Placemark>
       <Placemark>
         <name>TERAMO</name>
-        <styleUrl>#poly-E65100-3000-105-nodesc</styleUrl>
+        <styleUrl>#poly-E65100-501-143-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
