@@ -3,10 +3,10 @@
   <Document>
     <name>Mappa senza titolo</name>
     <description/>
-    <Style id="poly-F57C00-1-56-normal">
+    <Style id="poly-F57C00-1000-56-normal">
       <LineStyle>
         <color>ff007cf5</color>
-        <width>0.001</width>
+        <width>1</width>
       </LineStyle>
       <PolyStyle>
         <color>38007cf5</color>
@@ -14,10 +14,10 @@
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <Style id="poly-F57C00-1-56-highlight">
+    <Style id="poly-F57C00-1000-56-highlight">
       <LineStyle>
         <color>ff007cf5</color>
-        <width>0.0015</width>
+        <width>1.5</width>
       </LineStyle>
       <PolyStyle>
         <color>38007cf5</color>
@@ -25,20 +25,20 @@
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <StyleMap id="poly-F57C00-1-56">
+    <StyleMap id="poly-F57C00-1000-56">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-F57C00-1-56-normal</styleUrl>
+        <styleUrl>#poly-F57C00-1000-56-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-F57C00-1-56-highlight</styleUrl>
+        <styleUrl>#poly-F57C00-1000-56-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-FF5252-1-163-normal">
+    <Style id="poly-FF5252-1000-163-normal">
       <LineStyle>
         <color>ff5252ff</color>
-        <width>0.001</width>
+        <width>1</width>
       </LineStyle>
       <PolyStyle>
         <color>a35252ff</color>
@@ -46,10 +46,10 @@
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <Style id="poly-FF5252-1-163-highlight">
+    <Style id="poly-FF5252-1000-163-highlight">
       <LineStyle>
         <color>ff5252ff</color>
-        <width>0.0015</width>
+        <width>1.5</width>
       </LineStyle>
       <PolyStyle>
         <color>a35252ff</color>
@@ -57,20 +57,20 @@
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <StyleMap id="poly-FF5252-1-163">
+    <StyleMap id="poly-FF5252-1000-163">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-FF5252-1-163-normal</styleUrl>
+        <styleUrl>#poly-FF5252-1000-163-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-FF5252-1-163-highlight</styleUrl>
+        <styleUrl>#poly-FF5252-1000-163-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-FFFF8D-1-133-normal">
+    <Style id="poly-FFFF8D-1000-133-normal">
       <LineStyle>
         <color>ff8dffff</color>
-        <width>0.001</width>
+        <width>1</width>
       </LineStyle>
       <PolyStyle>
         <color>858dffff</color>
@@ -78,10 +78,10 @@
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <Style id="poly-FFFF8D-1-133-highlight">
+    <Style id="poly-FFFF8D-1000-133-highlight">
       <LineStyle>
         <color>ff8dffff</color>
-        <width>0.0015</width>
+        <width>1.5</width>
       </LineStyle>
       <PolyStyle>
         <color>858dffff</color>
@@ -89,14 +89,14 @@
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <StyleMap id="poly-FFFF8D-1-133">
+    <StyleMap id="poly-FFFF8D-1000-133">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-FFFF8D-1-133-normal</styleUrl>
+        <styleUrl>#poly-FFFF8D-1000-133-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-FFFF8D-1-133-highlight</styleUrl>
+        <styleUrl>#poly-FFFF8D-1000-133-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Folder>
@@ -104,7 +104,7 @@
       <Placemark>
         <name/>
         <description><![CDATA[descrizione: descrizione: Agglomerato Chieti - Pescara<br>ZONE_CODE: IT1305<br>ZONE_NAME: Agglomerato di Pescara - Chieti<br>ZONE_TYPE: ag<br>POLL_TARG: SH; NH; P; L; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: UAT<br>NH_Y_AT: UAT<br>P_D_AT: UAT<br>P_Y_AT: UAT<br>L_AT: LAT<br>B_AT: LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y<br>ZONE_CODE: IT1305<br>ZONE_NAME: Agglomerato di Pescara - Chieti<br>ZONE_TYPE: ag<br>POLL_TARG: SH; NH; P; L; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: UAT<br>NH_Y_AT: UAT<br>P_D_AT: UAT<br>P_Y_AT: UAT<br>L_AT: LAT<br>B_AT: LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y]]></description>
-        <styleUrl>#poly-FF5252-1-163</styleUrl>
+        <styleUrl>#poly-FF5252-1000-163</styleUrl>
         <ExtendedData>
           <Data name="descrizione">
             <value>descrizione: Agglomerato Chieti - Pescara
@@ -465,7 +465,7 @@ NEW_SUB: y</value>
       <Placemark>
         <name/>
         <description><![CDATA[descrizione: descrizione: Zona a Maggiore Pressione Antropica<br>ZONE_CODE: IT1306<br>ZONE_NAME: Zona a maggiore pressione<br>antropica<br>ZONE_TYPE: nonag<br>POLL_TARG: SH; NH; P; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: UAT<br>NH_Y_AT: UAT<br>P_D_AT: UAT<br>P_Y_AT: UAT<br>L_AT: <br>B_AT: UAT-LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y<br>ZONE_CODE: IT1306<br>ZONE_NAME: Zona a maggiore pressione<br>antropica<br>ZONE_TYPE: nonag<br>POLL_TARG: SH; NH; P; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: UAT<br>NH_Y_AT: UAT<br>P_D_AT: UAT<br>P_Y_AT: UAT<br>L_AT: <br>B_AT: UAT-LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y]]></description>
-        <styleUrl>#poly-F57C00-1-56</styleUrl>
+        <styleUrl>#poly-F57C00-1000-56</styleUrl>
         <ExtendedData>
           <Data name="descrizione">
             <value>descrizione: Zona a Maggiore Pressione Antropica
@@ -3355,7 +3355,7 @@ antropica</value>
       <Placemark>
         <name/>
         <description><![CDATA[descrizione: descrizione: Zona a Minore Pressione Antropica<br>ZONE_CODE: IT1307<br>ZONE_NAME: Zona a minore pressione<br>antropica<br>ZONE_TYPE: nonag<br>POLL_TARG: SH; NH; P; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: LAT<br>NH_Y_AT: LAT<br>P_D_AT: UAT-LAT<br>P_Y_AT: UAT-LAT<br>L_AT: <br>B_AT: LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y<br>ZONE_CODE: IT1307<br>ZONE_NAME: Zona a minore pressione<br>antropica<br>ZONE_TYPE: nonag<br>POLL_TARG: SH; NH; P; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: LAT<br>NH_Y_AT: LAT<br>P_D_AT: UAT-LAT<br>P_Y_AT: UAT-LAT<br>L_AT: <br>B_AT: LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y]]></description>
-        <styleUrl>#poly-FFFF8D-1-133</styleUrl>
+        <styleUrl>#poly-FFFF8D-1000-133</styleUrl>
         <ExtendedData>
           <Data name="descrizione">
             <value>descrizione: Zona a Minore Pressione Antropica
