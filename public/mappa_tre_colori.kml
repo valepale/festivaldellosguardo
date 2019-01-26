@@ -103,11 +103,26 @@
       <name>pippo</name>
       <Placemark>
         <name/>
-        <description><![CDATA[descrizione: descrizione: descrizione: Agglomerato Chieti - Pescara<br>ZONE_CODE: IT1305<br>ZONE_NAME: Agglomerato di Pescara - Chieti<br>ZONE_TYPE: ag<br>POLL_TARG: SH; NH; P; L; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: UAT<br>NH_Y_AT: UAT<br>P_D_AT: UAT<br>P_Y_AT: UAT<br>L_AT: LAT<br>B_AT: LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y<br>ZONE_CODE: IT1305<br>ZONE_NAME: Agglomerato di Pescara - Chieti<br>ZONE_TYPE: ag<br>POLL_TARG: SH; NH; P; L; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: UAT<br>NH_Y_AT: UAT<br>P_D_AT: UAT<br>P_Y_AT: UAT<br>L_AT: LAT<br>B_AT: LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y<br>ZONE_CODE: IT1305<br>ZONE_NAME: Agglomerato di Pescara - Chieti<br>ZONE_TYPE: ag<br>POLL_TARG: SH; NH; P; L; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: UAT<br>NH_Y_AT: UAT<br>P_D_AT: UAT<br>P_Y_AT: UAT<br>L_AT: LAT<br>B_AT: LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y]]></description>
+        <description><![CDATA[descrizione: descrizione: descrizione: descrizione: Agglomerato Chieti - Pescara<br>ZONE_CODE: IT1305<br>ZONE_NAME: Agglomerato di Pescara - Chieti<br>ZONE_TYPE: ag<br>POLL_TARG: SH; NH; P; L; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: UAT<br>NH_Y_AT: UAT<br>P_D_AT: UAT<br>P_Y_AT: UAT<br>L_AT: LAT<br>B_AT: LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y<br>ZONE_CODE: IT1305<br>ZONE_NAME: Agglomerato di Pescara - Chieti<br>ZONE_TYPE: ag<br>POLL_TARG: SH; NH; P; L; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: UAT<br>NH_Y_AT: UAT<br>P_D_AT: UAT<br>P_Y_AT: UAT<br>L_AT: LAT<br>B_AT: LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y<br>ZONE_CODE: IT1305<br>ZONE_NAME: Agglomerato di Pescara - Chieti<br>ZONE_TYPE: ag<br>POLL_TARG: SH; NH; P; L; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: UAT<br>NH_Y_AT: UAT<br>P_D_AT: UAT<br>P_Y_AT: UAT<br>L_AT: LAT<br>B_AT: LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y<br>ZONE_CODE: IT1305<br>ZONE_NAME: Agglomerato di Pescara - Chieti<br>ZONE_TYPE: ag<br>POLL_TARG: SH; NH; P; L; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: UAT<br>NH_Y_AT: UAT<br>P_D_AT: UAT<br>P_Y_AT: UAT<br>L_AT: LAT<br>B_AT: LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y]]></description>
         <styleUrl>#poly-FF5252-1-163</styleUrl>
         <ExtendedData>
           <Data name="descrizione">
-            <value>descrizione: descrizione: Agglomerato Chieti - Pescara
+            <value>descrizione: descrizione: descrizione: Agglomerato Chieti - Pescara
+ZONE_CODE: IT1305
+ZONE_NAME: Agglomerato di Pescara - Chieti
+ZONE_TYPE: ag
+POLL_TARG: SH; NH; P; L; B; C; O_H; BaP
+SH_AT: LAT
+NH_H_AT: UAT
+NH_Y_AT: UAT
+P_D_AT: UAT
+P_Y_AT: UAT
+L_AT: LAT
+B_AT: LAT
+C_AT: LAT
+O_H: LTO_U
+BAP_AT: UAT
+NEW_SUB: y
 ZONE_CODE: IT1305
 ZONE_NAME: Agglomerato di Pescara - Chieti
 ZONE_TYPE: ag
@@ -479,11 +494,27 @@ NEW_SUB: y</value>
       </Placemark>
       <Placemark>
         <name/>
-        <description><![CDATA[descrizione: descrizione: descrizione: Zona a Maggiore Pressione Antropica<br>ZONE_CODE: IT1306<br>ZONE_NAME: Zona a maggiore pressione<br>antropica<br>ZONE_TYPE: nonag<br>POLL_TARG: SH; NH; P; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: UAT<br>NH_Y_AT: UAT<br>P_D_AT: UAT<br>P_Y_AT: UAT<br>L_AT: <br>B_AT: UAT-LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y<br>ZONE_CODE: IT1306<br>ZONE_NAME: Zona a maggiore pressione<br>antropica<br>ZONE_TYPE: nonag<br>POLL_TARG: SH; NH; P; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: UAT<br>NH_Y_AT: UAT<br>P_D_AT: UAT<br>P_Y_AT: UAT<br>L_AT: <br>B_AT: UAT-LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y<br>ZONE_CODE: IT1306<br>ZONE_NAME: Zona a maggiore pressione<br>antropica<br>ZONE_TYPE: nonag<br>POLL_TARG: SH; NH; P; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: UAT<br>NH_Y_AT: UAT<br>P_D_AT: UAT<br>P_Y_AT: UAT<br>L_AT: <br>B_AT: UAT-LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y]]></description>
+        <description><![CDATA[descrizione: descrizione: descrizione: descrizione: Zona a Maggiore Pressione Antropica<br>ZONE_CODE: IT1306<br>ZONE_NAME: Zona a maggiore pressione<br>antropica<br>ZONE_TYPE: nonag<br>POLL_TARG: SH; NH; P; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: UAT<br>NH_Y_AT: UAT<br>P_D_AT: UAT<br>P_Y_AT: UAT<br>L_AT: <br>B_AT: UAT-LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y<br>ZONE_CODE: IT1306<br>ZONE_NAME: Zona a maggiore pressione<br>antropica<br>ZONE_TYPE: nonag<br>POLL_TARG: SH; NH; P; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: UAT<br>NH_Y_AT: UAT<br>P_D_AT: UAT<br>P_Y_AT: UAT<br>L_AT: <br>B_AT: UAT-LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y<br>ZONE_CODE: IT1306<br>ZONE_NAME: Zona a maggiore pressione<br>antropica<br>ZONE_TYPE: nonag<br>POLL_TARG: SH; NH; P; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: UAT<br>NH_Y_AT: UAT<br>P_D_AT: UAT<br>P_Y_AT: UAT<br>L_AT: <br>B_AT: UAT-LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y<br>ZONE_CODE: IT1306<br>ZONE_NAME: Zona a maggiore pressione<br>antropica<br>ZONE_TYPE: nonag<br>POLL_TARG: SH; NH; P; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: UAT<br>NH_Y_AT: UAT<br>P_D_AT: UAT<br>P_Y_AT: UAT<br>L_AT: <br>B_AT: UAT-LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y]]></description>
         <styleUrl>#poly-F57C00-1-56</styleUrl>
         <ExtendedData>
           <Data name="descrizione">
-            <value>descrizione: descrizione: Zona a Maggiore Pressione Antropica
+            <value>descrizione: descrizione: descrizione: Zona a Maggiore Pressione Antropica
+ZONE_CODE: IT1306
+ZONE_NAME: Zona a maggiore pressione
+antropica
+ZONE_TYPE: nonag
+POLL_TARG: SH; NH; P; B; C; O_H; BaP
+SH_AT: LAT
+NH_H_AT: UAT
+NH_Y_AT: UAT
+P_D_AT: UAT
+P_Y_AT: UAT
+L_AT: 
+B_AT: UAT-LAT
+C_AT: LAT
+O_H: LTO_U
+BAP_AT: UAT
+NEW_SUB: y
 ZONE_CODE: IT1306
 ZONE_NAME: Zona a maggiore pressione
 antropica
@@ -3385,11 +3416,27 @@ antropica</value>
       </Placemark>
       <Placemark>
         <name/>
-        <description><![CDATA[descrizione: descrizione: descrizione: Zona a Minore Pressione Antropica<br>ZONE_CODE: IT1307<br>ZONE_NAME: Zona a minore pressione<br>antropica<br>ZONE_TYPE: nonag<br>POLL_TARG: SH; NH; P; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: LAT<br>NH_Y_AT: LAT<br>P_D_AT: UAT-LAT<br>P_Y_AT: UAT-LAT<br>L_AT: <br>B_AT: LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y<br>ZONE_CODE: IT1307<br>ZONE_NAME: Zona a minore pressione<br>antropica<br>ZONE_TYPE: nonag<br>POLL_TARG: SH; NH; P; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: LAT<br>NH_Y_AT: LAT<br>P_D_AT: UAT-LAT<br>P_Y_AT: UAT-LAT<br>L_AT: <br>B_AT: LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y<br>ZONE_CODE: IT1307<br>ZONE_NAME: Zona a minore pressione<br>antropica<br>ZONE_TYPE: nonag<br>POLL_TARG: SH; NH; P; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: LAT<br>NH_Y_AT: LAT<br>P_D_AT: UAT-LAT<br>P_Y_AT: UAT-LAT<br>L_AT: <br>B_AT: LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y]]></description>
+        <description><![CDATA[descrizione: descrizione: descrizione: descrizione: Zona a Minore Pressione Antropica<br>ZONE_CODE: IT1307<br>ZONE_NAME: Zona a minore pressione<br>antropica<br>ZONE_TYPE: nonag<br>POLL_TARG: SH; NH; P; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: LAT<br>NH_Y_AT: LAT<br>P_D_AT: UAT-LAT<br>P_Y_AT: UAT-LAT<br>L_AT: <br>B_AT: LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y<br>ZONE_CODE: IT1307<br>ZONE_NAME: Zona a minore pressione<br>antropica<br>ZONE_TYPE: nonag<br>POLL_TARG: SH; NH; P; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: LAT<br>NH_Y_AT: LAT<br>P_D_AT: UAT-LAT<br>P_Y_AT: UAT-LAT<br>L_AT: <br>B_AT: LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y<br>ZONE_CODE: IT1307<br>ZONE_NAME: Zona a minore pressione<br>antropica<br>ZONE_TYPE: nonag<br>POLL_TARG: SH; NH; P; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: LAT<br>NH_Y_AT: LAT<br>P_D_AT: UAT-LAT<br>P_Y_AT: UAT-LAT<br>L_AT: <br>B_AT: LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y<br>ZONE_CODE: IT1307<br>ZONE_NAME: Zona a minore pressione<br>antropica<br>ZONE_TYPE: nonag<br>POLL_TARG: SH; NH; P; B; C; O_H; BaP<br>SH_AT: LAT<br>NH_H_AT: LAT<br>NH_Y_AT: LAT<br>P_D_AT: UAT-LAT<br>P_Y_AT: UAT-LAT<br>L_AT: <br>B_AT: LAT<br>C_AT: LAT<br>O_H: LTO_U<br>BAP_AT: UAT<br>NEW_SUB: y]]></description>
         <styleUrl>#poly-FFFF8D-1-133</styleUrl>
         <ExtendedData>
           <Data name="descrizione">
-            <value>descrizione: descrizione: Zona a Minore Pressione Antropica
+            <value>descrizione: descrizione: descrizione: Zona a Minore Pressione Antropica
+ZONE_CODE: IT1307
+ZONE_NAME: Zona a minore pressione
+antropica
+ZONE_TYPE: nonag
+POLL_TARG: SH; NH; P; B; C; O_H; BaP
+SH_AT: LAT
+NH_H_AT: LAT
+NH_Y_AT: LAT
+P_D_AT: UAT-LAT
+P_Y_AT: UAT-LAT
+L_AT: 
+B_AT: LAT
+C_AT: LAT
+O_H: LTO_U
+BAP_AT: UAT
+NEW_SUB: y
 ZONE_CODE: IT1307
 ZONE_NAME: Zona a minore pressione
 antropica
